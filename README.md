@@ -1,6 +1,5 @@
 # Gesture-Recognition-Case-Study
-	Jitendar Nath Vyas - Group Facilitator
-	Sachin Kumar Kesharwani
+
 
 ### Problem Statement
 As a data scientist at a home electronics company which manufactures state of the art smart televisions. We want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. 
@@ -19,3 +18,18 @@ The training data consists of a few hundred videos categorized into one of the f
 1.	3D Convolutional Neural Networks (Conv3D)
 2.	Convolutions + RNN
 
+### Technology Used
+1. Python
+2. Scikit learn
+3. pandas
+4. numpy
+5. seaborn
+6. matplotlib
+7. Tensor flow
+8. Keras
+
+### Acknowledgements
+This analysis is part of the Deep Learning which is one of the required learning module of Executive Post Graduate Programme in ML & AI from IIIT Bangalore.
+
+### Contact
+Created by [https://github.com/Jitendar1991] and [https://github.com/sachinpy007] - feel free to contact us!
